@@ -1,4 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 New content added here. 
 Some more text v2. 
+<<<<<<< Updated upstream
 This edit was added from the remote repository. 
+=======
+Local edit. 
+>>>>>>> Stashed changes
