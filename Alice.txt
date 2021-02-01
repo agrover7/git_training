@@ -3,4 +3,4 @@ New content added here.
 Some more text v2. 
 This edit was added from the remote repository. 
 Local edit. 
-
+Changing both files in this step. 
